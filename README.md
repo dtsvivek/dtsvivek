@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dtsvivek
-- 👀 I’m interested in ... data enginnering and data science
-- 🌱 I’m currently learning ... Full stack development and Distributed systems
+- 👀 I’m interested in ... Data Engineering and Data Science
+- 🌱 I’m currently learning ... Distributed systems and High Performance Computing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.linkedin.com\in\vivektejaraju
 
